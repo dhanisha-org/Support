@@ -8,8 +8,8 @@ import json
 
 app = Flask(__name__)
 
-# Cosmos DB Configuration updated
-COSMOS_ENDPOINT = " "
+# Cosmos DB Configuration updated test
+COSMOS_ENDPOINT = " " 
 COSMOS_KEY = " "
 DATABASE_NAME = " "
 CONTAINER_NAME = " "
